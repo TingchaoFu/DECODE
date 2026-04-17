@@ -11,7 +11,7 @@ Although Knowledge Editing provides an efficient mechanism for updating the know
 
 ## Prepare the dataset and model weights
 
-- Datasets download link: https://drive.google.com/file/d/1alsqNC3RMVeK6_ivNUr2Jh45R6s5HeSM/view?usp=drive_link
+- Datasets download link: https://drive.google.com/file/d/1ieXmgIJsujmVyw3Aqx-gX8Fg-emts0ti/view?usp=drive_link
 - LLaVA-v1.5-7B: https://huggingface.co/liuhaotian/llava-v1.5-7b
 - InstructBLIP-Vicuna-7B: https://huggingface.co/Salesforce/instructblip-vicuna-7b
 - Qwen-VL-7B:https://huggingface.co/Qwen/Qwen-VL
